@@ -100,6 +100,7 @@ private static boolean isPathBF(WeightedGraphInterface<String> graph,
 
   public static void main(String[] args) 
   {
+	//this is a comment
     // Create and analyze graph in Figure 10.3
     System.out.println("Creating graph in figure 10.3");
     WeightedGraph<String> graph = new WeightedGraph<String>();
